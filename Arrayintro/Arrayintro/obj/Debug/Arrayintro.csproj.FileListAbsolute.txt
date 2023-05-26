@@ -1,0 +1,8 @@
+D:\UST\Day40\Arrayintro\Arrayintro\bin\Debug\Arrayintro.exe.config
+D:\UST\Day40\Arrayintro\Arrayintro\bin\Debug\Arrayintro.exe
+D:\UST\Day40\Arrayintro\Arrayintro\bin\Debug\Arrayintro.pdb
+D:\UST\Day40\Arrayintro\Arrayintro\obj\Debug\Arrayintro.csproj.AssemblyReference.cache
+D:\UST\Day40\Arrayintro\Arrayintro\obj\Debug\Arrayintro.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day40\Arrayintro\Arrayintro\obj\Debug\Arrayintro.csproj.CoreCompileInputs.cache
+D:\UST\Day40\Arrayintro\Arrayintro\obj\Debug\Arrayintro.exe
+D:\UST\Day40\Arrayintro\Arrayintro\obj\Debug\Arrayintro.pdb
