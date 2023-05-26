@@ -1,0 +1,8 @@
+D:\UST\Day40\PowerOf2\PowerOf2\bin\Debug\PowerOf2.exe.config
+D:\UST\Day40\PowerOf2\PowerOf2\bin\Debug\PowerOf2.exe
+D:\UST\Day40\PowerOf2\PowerOf2\bin\Debug\PowerOf2.pdb
+D:\UST\Day40\PowerOf2\PowerOf2\obj\Debug\PowerOf2.csproj.AssemblyReference.cache
+D:\UST\Day40\PowerOf2\PowerOf2\obj\Debug\PowerOf2.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day40\PowerOf2\PowerOf2\obj\Debug\PowerOf2.csproj.CoreCompileInputs.cache
+D:\UST\Day40\PowerOf2\PowerOf2\obj\Debug\PowerOf2.exe
+D:\UST\Day40\PowerOf2\PowerOf2\obj\Debug\PowerOf2.pdb
