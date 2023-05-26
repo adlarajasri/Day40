@@ -1,0 +1,8 @@
+D:\UST\Day40\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+D:\UST\Day40\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+D:\UST\Day40\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+D:\UST\Day40\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.AssemblyReference.cache
+D:\UST\Day40\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day40\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+D:\UST\Day40\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+D:\UST\Day40\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
