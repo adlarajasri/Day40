@@ -1,0 +1,8 @@
+D:\UST\Day40\2Darray\2Darray\bin\Debug\2Darray.exe.config
+D:\UST\Day40\2Darray\2Darray\bin\Debug\2Darray.exe
+D:\UST\Day40\2Darray\2Darray\bin\Debug\2Darray.pdb
+D:\UST\Day40\2Darray\2Darray\obj\Debug\2Darray.csproj.AssemblyReference.cache
+D:\UST\Day40\2Darray\2Darray\obj\Debug\2Darray.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day40\2Darray\2Darray\obj\Debug\2Darray.csproj.CoreCompileInputs.cache
+D:\UST\Day40\2Darray\2Darray\obj\Debug\2Darray.exe
+D:\UST\Day40\2Darray\2Darray\obj\Debug\2Darray.pdb
